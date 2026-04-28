@@ -1,0 +1,25 @@
+user_id,course_id,rating,time_spent,score,difficulty,category
+101,Python Basics,4.8,12,88,Beginner,Programming
+101,Statistics 101,3.2,8,62,Intermediate,Data Science
+101,SQL Fundamentals,4.2,10,79,Beginner,Database
+101,AI Foundations,3.9,9,70,Intermediate,AI
+102,Python Basics,4.5,11,85,Beginner,Programming
+102,Statistics 101,4.3,10,80,Intermediate,Data Science
+102,Machine Learning Intro,4.6,14,87,Intermediate,AI
+102,Data Visualization,4.1,9,78,Beginner,Data Science
+103,Python Basics,4.1,9,76,Beginner,Programming
+103,SQL Fundamentals,4.7,11,90,Beginner,Database
+103,Data Engineering,4.4,13,84,Advanced,Data Science
+103,Machine Learning Intro,4.2,12,81,Intermediate,AI
+104,Statistics 101,4.7,12,89,Intermediate,Data Science
+104,AI Foundations,4.4,11,83,Intermediate,AI
+104,Machine Learning Intro,4.8,15,91,Intermediate,AI
+104,Deep Analytics,4.0,10,74,Advanced,Data Science
+105,Python Basics,3.6,7,65,Beginner,Programming
+105,SQL Fundamentals,3.8,8,68,Beginner,Database
+105,AI Foundations,3.4,7,60,Intermediate,AI
+105,Data Visualization,3.9,9,72,Beginner,Data Science
+106,Statistics 101,4.0,9,75,Intermediate,Data Science
+106,Machine Learning Intro,4.3,11,82,Intermediate,AI
+106,Deep Analytics,4.1,10,77,Advanced,Data Science
+106,Data Engineering,4.2,11,79,Advanced,Data Science
